@@ -2,17 +2,21 @@
 
 A modern, responsive web application built with React, JavaScript, and Tailwind CSS. A professional website showcasing modern web design and development practices.
 
+## Live Demo
+
+Visit the live application: **[https://bright-hurst.netlify.app/](https://bright-hurst.netlify.app/)**
+
 ## Features
 
-- ⚡ **Fast Development** - Powered by Vite for instant HMR
-- 🎨 **Modern Styling** - Tailwind CSS for utility-first styling
-- 📱 **Fully Responsive** - Mobile-first design approach
-- 🧩 **Reusable Components** - shadcn/ui component library integration
-- 🔄 **State Management** - React Query for data fetching
-- 🎯 **Routing** - React Router for navigation
-- ✨ **Beautiful UI** - Lucide React icons and smooth animations
-- 🧪 **Testing Ready** - Vitest configured for unit tests
-- 📝 **ESLint Configured** - Code quality and consistency
+- **Fast Development** - Powered by Vite for instant HMR
+- **Modern Styling** - Tailwind CSS for utility-first styling
+- **Fully Responsive** - Mobile-first design approach
+- **Reusable Components** - shadcn/ui component library integration
+- **State Management** - React Query for data fetching
+- **Routing** - React Router for navigation
+- **Beautiful UI** - Lucide React icons and smooth animations
+- **Testing Ready** - Vitest configured for unit tests
+- **ESLint Configured** - Code quality and consistency
 
 ## Tech Stack
 
@@ -224,7 +228,7 @@ This project is private and proprietary.
 
 ---
 
-**Built with ❤️ using React and Tailwind CSS**
+**Built with care using React and Tailwind CSS**
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
